@@ -9,10 +9,15 @@ The level of dirtiness is represented by a value from 0 to 100, where 0-50 is "l
 Based on various tests conducted on the machine prototype, the following rules were established:
 
 [R1] If the laundry amount is few and dirtiness is low, then the spinning speed is slow.
+
 [R2] If the laundry amount is few and dirtiness is medium, then the spinning speed is slow.
+
 [R3] If the laundry amount is few and dirtiness is high, then the spinning speed is fast.
+
 [R4] If the laundry amount is many and dirtiness is low, then the spinning speed is slow.
+
 [R5] If the laundry amount is many and dirtiness is medium, then the spinning speed is fast.
+
 [R6] If the laundry amount is many and dirtiness is high, then the spinning speed is fast.
 
 
